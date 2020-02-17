@@ -1,0 +1,31 @@
+.register
+{
+	text-align: left;
+
+}
+body{background-color: lightgreen;}
+#rt {
+ font-family: "Times New Roman", Times, serif;
+ color: #330066;
+ font-size:60px;
+}
+#rt1
+{
+	color:red;
+	font-size:20px;
+}
+#rt2
+{
+	color:red;
+	font-size:20px;
+}
+#rt3
+{
+	color:red;
+	font-size:20px;
+}
+#rt4
+{
+	color:red;
+	font-size:20px;
+}
